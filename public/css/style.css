@@ -167,7 +167,9 @@ hr {
   text-transform: uppercase;
   color: #fff;
   background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  /* background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%); */
+    background-image: linear-gradient(to right, #6372ff 0%, pink 100%);
+
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -184,7 +186,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: pink;
 }
 .btn:active,
 .btn.active {
@@ -244,7 +246,7 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
-/* Features Section */
+/* Features Section
 #features {
   background: #f6f6f6;
 }
@@ -259,7 +261,7 @@ header .intro-text {
   border-radius: 50%;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
-}
+} */
 /* About Section */
 #about {
   padding: 100px 0;
