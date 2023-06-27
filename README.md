@@ -2,7 +2,7 @@
 A website showcasing a cake recipe. Created using [React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) (ReactJS based landing page template).
 
 ## Deployment
- Deployed using Vercel: [cake-recipe.vercel.app](cake-recipe.vercel.app)
+ Deployed using Vercel: [cake-recipe.vercel.app](https://cake-recipe.vercel.app)
  
 ## Usage (local)
 
