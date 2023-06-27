@@ -3,11 +3,11 @@
     padding: 20px;
     width: 111%;
   } */
-  #about,
-  #services,
+  #ingredients,
+  #recipe,
   #testimonials,
   #team,
-  #contact,
+  #footer,
   #footer {
     width: 111%;
   }
