@@ -5,13 +5,20 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
+          <h2>Recipe</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Check out below this traditional recipe (external link):
           </p>
+          <br></br>
+          <a
+                  href="https://www.iheartbrazil.com/brazilian-carrot-cake/"
+                  className="btn btn-custom btn-lg page-scroll"
+                  target="_blank"
+                >
+                  Visit
+                </a>{" "}
         </div>
-        <div className="row">
+        {/* <div className="row">
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-4">
@@ -24,7 +31,7 @@ export const Services = (props) => {
                 </div>
               ))
             : "loading"}
-        </div>
+        </div> */}
       </div>
     </div>
   );
