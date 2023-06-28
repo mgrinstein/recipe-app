@@ -7,11 +7,12 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
+            <img src="img/about.jpeg" className="img-responsive" alt="" />{" "}
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>Brazilian carrot cake</h2>
+              <h1>with <i>brigadeiro</i> frosting</h1>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <h3>Contains:</h3>
               <div className="list-style">
