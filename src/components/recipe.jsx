@@ -26,6 +26,10 @@ export const Recipe = (props) => {
         May your 2023 Pride Month have been as sweet as this cake!
         <br></br>
         <i>I mean, June!</i>
+        <br></br>
+        <br></br>
+
+        <small>(ba dum tss)</small>
         </p>
         </div>
       </div>
