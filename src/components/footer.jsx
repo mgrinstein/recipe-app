@@ -54,10 +54,10 @@ export const Footer = (props) => {
             <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a>
-            <br></br>
+            {/* <br></br>
             <i>(Adapted by <a href="https://github.com/mgrinstein" rel="nofollow">
               mgrinstein
-              </a> for non-commercial purposes)</i>
+              </a> for non-commercial purposes)</i> */}
           </p>
         </div>
       </div>
