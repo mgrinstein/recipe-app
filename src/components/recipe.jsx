@@ -14,6 +14,7 @@ export const Recipe = (props) => {
                   href="https://www.iheartbrazil.com/brazilian-carrot-cake/"
                   className="btn btn-custom btn-lg page-scroll"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Visit
                 </a>{" "}
